@@ -17,4 +17,4 @@
 
 Check out itch.io page to download: https://kberkboz.itch.io/hakuna-matata
 <br>
-View the promotional video: www.youtube.com/watch?v=YEQLKT7d3dQ&feature=youtu.be
+View the promotional video: www.youtube.com/watch?v=lGIyB3298zc
