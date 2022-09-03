@@ -15,6 +15,6 @@
 
 -Speech recognition for English and Turkish
 
-Check out itch.io page to download: https://kberkboz.itch.io/hakuna-matata
+Check out the itch.io page for an .exe download: https://kberkboz.itch.io/hakuna-matata
 <br>
 View the promotional video: www.youtube.com/watch?v=lGIyB3298zc
