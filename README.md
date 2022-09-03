@@ -1,8 +1,9 @@
 # Hakuna-Matata
-<b>"It means no worries"
+<b>"It means no worries"</b>
 <br>
 
  <strong> A zoom bot to join your meetings automatically. 
+ </strong>
 
 -You can easily set up a schedule
 
