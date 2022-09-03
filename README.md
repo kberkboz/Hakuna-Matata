@@ -14,3 +14,6 @@
 -Easy setup for audio input (no need to change that in settings anymore)
 
 -Speech recognition for English and Turkish
+
+Also check out the itch.io page: kberkboz.itch.io/hakuna-matata
+View the promotional video: www.youtube.com/watch?v=YEQLKT7d3dQ&feature=youtu.be
